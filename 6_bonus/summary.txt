@@ -2,5 +2,5 @@ NAME: MD. SHAHRIYAR HOSSAIN
 ID: 21141017
 
 This folder contains all the courses done from E-Learning webisites like Coursera/Datacamp/edX
-Each .txt file contains Course title, link and website name
+Each folder contains course details and the certificate in pdf
 
